@@ -31,7 +31,13 @@ html {
 body,html {
   margin: 0;
   padding: 0;
+  text-align: center;
+  color: #2497ea;
   font-family: 'Poppins', sans-serif;
+}
+
+.drum {
+  font-size: 40px;
 }
 
 .keys {
